@@ -3,7 +3,7 @@
     "displayName": "Cpp Boilerplate Code",
     "description": "A basic C++ starter template generator.",
     "version": "1.0.0",
-    "publisher": "Rajorshi Ghosh",
+    "publisher": "RajorshiGhosh",
     "repository": {
         "type": "git",
         "url": "https://github.com/Isen-kun/cpp-vsc-extension"
