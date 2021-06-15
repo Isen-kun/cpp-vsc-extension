@@ -12,7 +12,7 @@ Type 'io' or 'al' in an C++ file and select the snippet from the auto suggestion
 
 1. io
 
-```json
+```cpp
 #include<iostream>
 using namespace std;
 
@@ -24,7 +24,7 @@ int main()
 
 1. al
 
-```json
+```cpp
 #include<iostream>
 #include<algorithm>
 using namespace std;
