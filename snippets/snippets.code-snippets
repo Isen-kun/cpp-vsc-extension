@@ -1,0 +1,31 @@
+{
+  "Cpp iostream Template": {
+    "prefix": "io",
+    "body": [
+      "#include<iostream>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream header file and main function."
+  },
+  "Cpp algorithm Template": {
+    "prefix": "al",
+    "body": [
+      "#include<iostream>",
+      "#include<algorithm>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, algorithm header file and main function."
+  },
+}

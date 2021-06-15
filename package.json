@@ -1,0 +1,26 @@
+{
+    "name": "cpp-boilerplate-code",
+    "displayName": "Cpp Boilerplate Code",
+    "description": "A basic C++ starter template generator.",
+    "version": "1.0.0",
+    "publisher": "Rajorshi Ghosh",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Isen-kun/Cpp-Programming"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "cpp",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
