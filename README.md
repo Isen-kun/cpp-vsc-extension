@@ -8,6 +8,33 @@ Type 'io' or 'al' in an C++ file and select the snippet from the auto suggestion
 
 <!-- ![feature X](icon.png) -->
 
+## Snippets
+
+1. io
+
+```json
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    return 0;
+}
+```
+
+1. al
+
+```json
+#include<iostream>
+#include<algorithm>
+using namespace std;
+
+int main()
+{
+    return 0;
+}
+```
+
 ## Installation
 
 1. Install Visual Studio Code 1.57.0 or higher
@@ -26,4 +53,4 @@ Initial release of Cpp Boilerplate Code.
 
 ## Source
 
-[Github]()
+[Github](https://github.com/Isen-kun/cpp-vsc-extension)

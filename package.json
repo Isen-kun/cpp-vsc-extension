@@ -6,7 +6,7 @@
     "publisher": "Rajorshi Ghosh",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Isen-kun/Cpp-Programming"
+        "url": "https://github.com/Isen-kun/cpp-vsc-extension"
     },
     "icon": "icon.png",
     "engines": {
